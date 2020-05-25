@@ -1,0 +1,23 @@
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    padding: 20px;
+}
+.main-blok {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 10vh;
+    padding: 20px;
+    float:left;
+
+}
+.blok-down {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    padding: 20px;
+}
